@@ -63,8 +63,8 @@ Milestone 4: Frontend development.
 ●	All Bookings
 <img width="975" height="456" alt="image" src="https://github.com/user-attachments/assets/f6cc8584-a5d0-4d55-b628-51b303d5233d" />
 
-The demo of the app is available at:
-https://drive.google.com/file/d/1Q0XwKtAz7EkaKNJv3_gbo6mZE9nfuBTK/view?usp=sharing 
+License:
+https://drive.google.com/drive/folders/1279Mx3nfdRL0QrBCIKeh61grmgDQAdh-?usp=sharing
 
 
 
